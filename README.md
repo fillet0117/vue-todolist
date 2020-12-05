@@ -1,4 +1,4 @@
-# chatbackend
+# Vue ToDo List
 
 ## Project setup
 ```
